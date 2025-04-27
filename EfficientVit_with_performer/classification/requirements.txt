@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+einops
+fvcore
+easydict
+matplotlib
+numpy
+yacs
+scikit-image
+pillow
+performer-pytorch
