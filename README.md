@@ -5,3 +5,7 @@ This project presents an enhanced version of the EfficientViT model aimed at imp
 # Reference Project
 https://github.com/microsoft/Cream/tree/main/EfficientViT/classification
 ![image](https://github.com/user-attachments/assets/c4d4b153-5686-44c6-88d7-c3756d96c78a)
+# Authors
+Team: Tazeen Khan
+Supervisor Name: Dr. Muzammil Behzad
+Affiliations: KFUPM
