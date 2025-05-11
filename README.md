@@ -9,6 +9,6 @@ https://github.com/microsoft/Cream/tree/main/EfficientViT/classification
 ![image](https://github.com/user-attachments/assets/7a738ade-dbbb-4198-9f9e-197ed2b0f9a5)
 
 # Authors
-Team: Tazeen Khan
-!Supervisor Name: Dr. Muzammil Behzad
-!Affiliations: KFUPM
+- **Team:** Tazeen Khan
+- **Supervisor Name:** Dr. Muzammil Behzad
+- **Affiliations:** KFUPM
