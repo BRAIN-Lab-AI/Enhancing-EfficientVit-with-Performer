@@ -1,4 +1,4 @@
-# Real-World Underwater Video Enhancement
+# Enhancing EfficientVit with Performer
 
 
 Below is a template for another sample project. Please follow this template.
